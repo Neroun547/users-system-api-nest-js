@@ -1,0 +1,19 @@
+.wrapper__nav {
+    display: flex;
+    height: 40px;
+    background-color: #ccc;
+}
+
+.wrapper__nav nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 600px;
+    width: 100%;
+}
+
+.wrapper__nav nav a {
+    color: #000;
+    text-decoration: none;
+}

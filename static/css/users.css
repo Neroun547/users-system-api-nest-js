@@ -1,0 +1,33 @@
+#loadMoreUsersBtn {
+    display: block;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 50px;
+    margin: 0 auto;
+    margin-top: 50px;
+    outline: none;
+    cursor: pointer;
+}
+
+.wrapper__users {
+    margin-top: 100px;
+}
+
+.wrapper__users-item {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background: #fafafa;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.wrapper__users-item button {
+    display: block;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+}

@@ -1,0 +1,16 @@
+<div class="wrapper__nav">
+    {{#if noEntry}}
+          <nav>
+            <a href="/signin">Sign in</a>
+            <a href="/signup">Create account</a>
+            <a href="/">info</a>
+        </nav>  
+    {{else}}
+        <nav>
+            <a href="/signup">Create account</a>
+            <a href="/users">Users</a>
+            <a href="/">info</a>
+            <a href="/signin/exit">Exit</a>
+        </nav>  
+    {{/if}}
+</div>

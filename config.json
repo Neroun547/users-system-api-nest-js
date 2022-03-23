@@ -1,0 +1,8 @@
+{
+    "portDb": 3306,
+    "db": "usersSystem",
+    "hostDb": "127.0.0.1",
+    "usernameDb": "gosha",
+    "passwordDb": "MyPasswd",
+    "secretJwt": "asfsdfkjsdfsb"
+}

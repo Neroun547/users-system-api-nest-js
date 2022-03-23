@@ -1,0 +1,9 @@
+.wrapper__main {
+    max-width: 1250px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.wrapper__info {
+    margin-top: 50px;
+}

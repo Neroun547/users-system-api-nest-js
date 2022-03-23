@@ -1,0 +1,35 @@
+.wrapper__signin-form {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.wrapper__signin-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper__signin-form form input {
+    margin: 10px;
+    border: none;
+    border-bottom: 1px solid #000;
+    outline: none;
+}
+
+.wrapper__signin-form form button {
+    display: block;
+    width: 200px;
+    height: 40px;
+    border: none;
+    margin: 0 auto;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.wrapper__exception {
+    margin-top: 30px;
+    padding: 10px;
+    text-align: center;
+}
